@@ -15,13 +15,14 @@ Homepage for Sculpting Evolution automation and computational resources
 
 Contributing
 --------------------
-If you would like to contribute your own documentation, follow these instructions.
+If you would like to contribute your own documentation, . :ref:`follow these instructions. <contributing>`
 
 General Topics
 -----------------
 .. toctree::
    :maxdepth: 1
    
+   contributing
    general/pyhamilton
    general/experimental_data_repository
    general/modular_lab
