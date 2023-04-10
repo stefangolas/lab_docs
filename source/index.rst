@@ -15,7 +15,7 @@ Homepage for Sculpting Evolution automation and computational resources
 
 Contributing
 --------------------
-If you would like to contribute your own documentation, . :ref:`follow these instructions. <contributing>`
+If you would like to contribute your own documentation, :ref:`follow these instructions.<contributing>`
 
 General Topics
 -----------------
