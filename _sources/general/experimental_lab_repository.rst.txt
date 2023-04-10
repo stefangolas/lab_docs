@@ -1,5 +1,5 @@
-Turbidostat
-=============
+Experimental Data Repository
+==============================
 
 Setup
 -----
@@ -7,9 +7,6 @@ Setup
 Run
 -----
 
-.. code-block:: console
-
-   (.venv) $ pip install lumache
 
 
 Code
